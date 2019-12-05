@@ -6,7 +6,7 @@ header-id: dynamic-query
 
 [TOC levels=1-4]
 
-Liferay lets you use custom SQL queries to retrieve data from the database.
+Liferay lets you use custom SQL queries to retrieve data from the database.now
 However, it's sometimes more convenient to build queries dynamically at runtime
 than it is to invoke predefined SQL queries. Liferay allows you to build queries
 dynamically using its DynamicQuery API, which wraps Hibernate's Criteria API.
